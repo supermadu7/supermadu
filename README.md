@@ -4,7 +4,7 @@
 
 ## 🧾 About
 
-I'm **Ifeanyi Madu**, a seasoned web developer with over 10 years of experience specializing in building elegant, accessible, and user-centric digital experiences. This site serves as a reflection of my professional journey, a showcase of my work, and a platform for connecting with peers and collaborators.
+I'm **Ifeanyi Madu**, a full-stack Lead Software Developer with 10+ years of experience building and modernising high-traffic PHP systems. This site serves as a reflection of my professional journey, a showcase of my work, and a platform for connecting with peers and collaborators.
 
 ## 🚀 Features
 
